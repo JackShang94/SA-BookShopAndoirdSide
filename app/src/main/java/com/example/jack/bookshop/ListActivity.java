@@ -54,7 +54,7 @@ public class ListActivity extends android.app.ListActivity {
             }.execute(filter);
         }
 
-
+        String test = "This is just a test for github";
 
 
     }
