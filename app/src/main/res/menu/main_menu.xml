@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".ListActivity">
+
+    <item android:id="@+id/item1" android:title="Show All"
+        android:orderInCategory="101"/>
+    <item android:id="@+id/item2" android:title="Non-Fiction"
+        android:orderInCategory="102"/>
+    <item android:id="@+id/item3" android:title="Children"
+        android:orderInCategory="103"/>
+    <item android:id="@+id/item4" android:title="Finance"
+        android:orderInCategory="104"/>
+    <item android:id="@+id/item5" android:title="Technical"
+        android:orderInCategory="105"/>
+</menu>
